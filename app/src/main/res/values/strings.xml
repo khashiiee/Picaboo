@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PicaBoo</string>
+
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">PicaBoo</string>
+    <string name="title_activity_main">MainActivity</string>
+</resources>
